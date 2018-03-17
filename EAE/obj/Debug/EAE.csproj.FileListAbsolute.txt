@@ -1,0 +1,13 @@
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\EAE.exe.config
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\EAE.exe
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\EAE.pdb
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\msg\source\repos\EAE\EAE\obj\Debug\EAE.csproj.CoreCompileInputs.cache
+C:\Users\msg\source\repos\EAE\EAE\obj\Debug\EAE.csproj.CopyComplete
+C:\Users\msg\source\repos\EAE\EAE\obj\Debug\EAE.exe
+C:\Users\msg\source\repos\EAE\EAE\obj\Debug\EAE.pdb
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\msg\source\repos\EAE\EAE\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\msg\source\repos\EAE\EAE\obj\Debug\EAE.csprojResolveAssemblyReference.cache
