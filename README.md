@@ -3,4 +3,4 @@ With this application you can extract attachments of the mails of your inbox to 
 
 Simply register the app with your office 365 account on https//portal.azure.com and put the app ID into the settings file.
 
-If somebody wants to contribute in any way or upgrade to ADAL.NET 3.xx.x and implement this with oauth2 i'll happily add you as a developer.
+If somebody wants to contribute in any way or upgrade to ADAL.NET 3.xx.x and implement this with oauth2 I'll happily add you as a developer.
